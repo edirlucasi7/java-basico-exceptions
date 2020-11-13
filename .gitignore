@@ -1,0 +1,16 @@
+HELP.md
+target/
+bin/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### ECLIPSE ###
+.apt_generated
+.classpath
+.settings
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
